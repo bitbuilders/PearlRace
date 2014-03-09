@@ -159,7 +159,7 @@ public class Timer extends JavaPlugin {
 		return false;
 	}
 	public static Inventory getEye_Of_EnderInventory(){
-        // inventory
+        // inventory asdf
 		Inventory inv = Bukkit.createInventory(null, 9, "Click on Item!");
 
 		{
