@@ -1,0 +1,12 @@
+name: Minigame
+version: 1.0
+author: skipjip
+main: me.skipjip.Timer
+desciption: A cooldown timer
+commands:
+  cooldown:
+    usage: /cooldown
+  mytimer:
+    usage: /mytimer
+  startgame:
+    usage: /startgame
